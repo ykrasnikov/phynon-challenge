@@ -1,7 +1,7 @@
 # phynon-challenge
 **python homework**
 ## UNDER DEVELOPMENT
-![underconstruction picture]((https://github.com/ykrasnikov/phynon-challenge/blob/main/Images/construction.png))
+![underconstruction picture](https://github.com/ykrasnikov/phynon-challenge/blob/main/Images/construction.png)
 Pyhon
 ### Part 1. PyBank
 ![PyBank picture](https://github.com/ykrasnikov/phynon-challenge/blob/main/Images/pybank.png)
