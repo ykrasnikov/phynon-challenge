@@ -1,6 +1,7 @@
 # phynon-challenge
 **python homework**
 ## UNDER DEVELOPMENT
+### homework is done , but we are still working on "ReadMe"
 ![underconstruction picture](https://github.com/ykrasnikov/phynon-challenge/blob/main/Images/construction.png)
 Pyhon
 ### Part 1. PyBank
