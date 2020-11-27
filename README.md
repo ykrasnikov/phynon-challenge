@@ -44,7 +44,7 @@ Poll dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`
   * The total number of votes each candidate won
   * The winner of the election based on popular vote.
 
-and outputs it to [text file](/PyBank/Resources/polls_results.text) 
+and outputs it to [text file](/PyPoll/Resources/polls_results.text) 
 
 ### Part 3. PyBoss 
 <img src="/Images/pyboss.jpg" align="right" width="400" />
@@ -67,4 +67,5 @@ and outputs it to [CSV file](/PyBoss/Resources/converted_employee_data.csv)
  * Approximate sentence count
  * Approximate letter count (per word)
  * Average sentence length (in words)
+
 And prints results on the screen.
