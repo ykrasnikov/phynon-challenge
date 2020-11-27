@@ -55,7 +55,8 @@ Python script converts employee records to the specified format.
   * The `DOB` data should be re-written into `MM/DD/YYYY` format.
   * The `SSN` data should be re-written such that the first five numbers are hidden from view.
   * The `State` data should be re-written as simple two-letter abbreviations.
-and outputs it to [CSV file](/PyBoss/Resources/converted_employee_data.csv) 
+
+And outputs it to [CSV file](/PyBoss/Resources/converted_employee_data.csv) 
 
 
 ### Part 4. PyParagraph
@@ -68,4 +69,4 @@ and outputs it to [CSV file](/PyBoss/Resources/converted_employee_data.csv)
  * Approximate letter count (per word)
  * Average sentence length (in words)
 
-And prints results on the screen.
+And outputs it to [text file](/PyParagraph/raw_data/Paragraph_results.text) 
