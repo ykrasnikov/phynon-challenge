@@ -12,7 +12,7 @@ Homework consists of 4 parts : **PyBank , PyPoll, PyBoss and PyParagraph** and m
  We practiced **_creating loop, open file to  read/wriet, operating with data structures ( variables, string ,tuple, list, dictionary etc )_**. Special attention was given to **_string comprehension_** applications.
 Code was created using **Jupiter Notebook 6.0.3 /Python 3.8.3**
 
-### Part 1. PyBank
+## Part 1. PyBank
 <img src="/Images/pybank.png" align="right" width="400"/>
 
 Python script for analyzing the financial records of a company. Provided data set contains 2 columns of financial data: `Date` and `Profit/Losses`.
@@ -29,7 +29,7 @@ Python script for analyzing the financial records of a company. Provided data se
 and outputs it to [text file](/PyBank/Resources/budget_data_results.text) 
 
 
-### Part 2. PyPoll
+## Part 2. PyPoll
 
 <img src="/Images/pypoll.png" align="right" width="400" />
 In this challenge, we are tasked with helping a small, rural town to modernize its vote counting process. 
@@ -46,7 +46,7 @@ Poll dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`
 
 and outputs it to [text file](/PyPoll/Resources/polls_results.text) 
 
-### Part 3. PyBoss 
+## Part 3. PyBoss 
 <img src="/Images/pyboss.jpg" align="right" width="400" />
 Python script converts employee records to the specified format. 
 
@@ -59,7 +59,7 @@ Python script converts employee records to the specified format.
 And outputs it to [CSV file](/PyBoss/Resources/converted_employee_data.csv) 
 
 
-### Part 4. PyParagraph
+## Part 4. PyParagraph
 <img src="/Images/pyparagraph.png" align="right" width="400" />
  Python script automates the analysis of any paragraph using specified metrics. 
 
