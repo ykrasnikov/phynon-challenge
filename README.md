@@ -2,7 +2,9 @@
 # Phynon Challenge
   <img src="https://github.com/ykrasnikov/phynon-challenge/blob/main/Images/anaconda.gif" align="right" width="100" height="100"/>
 
-## Python Homework 
+
+
+**_Python Homework_** 
 
 
 
@@ -29,10 +31,10 @@ and outputs it to [text file](/PyBank/Resources/budget_data_results.txt)
 
 ### Part 2. PyPoll
 
-<img src="/images/pypoll.png" align="right" width="400" />
+<img src="/Images/pypoll.png" align="right" width="400" />
 In this challenge, we are tasked with helping a small, rural town to modernize its vote counting process. 
 
-Poll dataset is composed of three columns: `Voter ID\`, `County`, and `Candidate`.
+Poll dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.
 
 [Main.Py ](/PyPoll/main.py)
  is a python script that analyzes the records to calculate each of the following:
@@ -44,9 +46,6 @@ Poll dataset is composed of three columns: `Voter ID\`, `County`, and `Candidate
 
 and outputs it to [text file](/PyBank/Resources/polls_results.txt) 
 
-
-### Part 2. PyPoll
-![pyPoll Picture](https://github.com/ykrasnikov/phynon-challenge/blob/main/Images/pypoll.png)
 ### Part 3. PyBoss
 ![PyBoss Picture](https://github.com/ykrasnikov/phynon-challenge/blob/main/Images/pyboss.jpg)
 ### Part 4. PyParagraph
